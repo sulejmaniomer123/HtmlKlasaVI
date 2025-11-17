@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.lang-select {
+  margin-bottom: 20px;
+  padding: 6px;
+  font-size: 16px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+}
+
+
+.post-box {
+    background: #f0f0f0;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.pfp {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
